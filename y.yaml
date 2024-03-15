@@ -1,0 +1,6 @@
+--2024-03-14 22:39:31--  https://training.akuity.cloud/api/v1/orgs/jn519qwig9xv1b33/argocd/instances/dx5g6jdixlspe55u/clusters/9phb4ttfqkaotzrv/manifests?offlineInstallation=false
+Resolving training.akuity.cloud (training.akuity.cloud)... 35.235.124.249
+Connecting to training.akuity.cloud (training.akuity.cloud)|35.235.124.249|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
